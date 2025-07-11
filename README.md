@@ -1,3 +1,4 @@
+
 <h1 align="center"> Hi, I'm Isuri Harischandra 👋</h1>
 
 <h3 align="center">-A passionate frontend developer from Sri Lanka-</h3>
@@ -8,7 +9,7 @@
 
 <h3 align="left"> 🌞 About Me: </h3>
 <p>
--Hello! I’m a 3rd-year Information Technology undergraduate at the Sri Lanka Institute of Information Technology (SLIIT). I'm passionate about developing smart, user-friendly applications and continuously learning new technologies to build practical, real-world solutions. 🚀</p>
+Hello! I’m a 3rd-year Information Technology undergraduate at the Sri Lanka Institute of Information Technology (SLIIT). I'm passionate about developing smart, user-friendly applications and continuously learning new technologies to build practical, real-world solutions. 🚀</p>
 </br>
  
 
