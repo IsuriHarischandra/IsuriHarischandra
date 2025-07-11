@@ -1,5 +1,5 @@
-<h1 align="center">✨ Welcome to My GitHub Profile ✨</h1></br>
-<h3 align="center">Hi, I'm Isuri 👋</h3>
+<h1 align="center"> Hi, I'm Isuri Harischandra 👋</h1>
+
 <h3 align="center">-A passionate frontend developer from Sri Lanka-</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isuriharischsndra&label=Profile%20views&color=0e75b6&style=flat" alt="isuriharischsndra" /> </p>
@@ -8,14 +8,9 @@
 
 <h3 align="left"> 🌞 About Me: </h3>
 <p>
--Hello! I’m a 3rd-year Information Technology undergraduate at the **Sri Lanka Institute of Information Technology (SLIIT)**. I'm passionate about developing smart, user-friendly applications and continuously learning new technologies to build practical, real-world solutions. 🚀</p>
+-Hello! I’m a 3rd-year Information Technology undergraduate at the Sri Lanka Institute of Information Technology (SLIIT). I'm passionate about developing smart, user-friendly applications and continuously learning new technologies to build practical, real-world solutions. 🚀</p>
 </br>
  
-- I’m currently working on:
- <ul>
-  🍽️ Smart Diet & Meal Planner – Full-stack Web Project
-</ul> 
-</br>
 
 - What I love to do:
   <ul>
